@@ -1,24 +1,24 @@
 section.blog{
-	background-color: #f4f3f3;
-	height: auto;
+  background-color: #f4f3f3;
+  height: auto;
   padding: 40px 0;
 }
 .blog h2{
-	font-size: 30px;
+  font-size: 30px;
   margin-bottom: 30px;
 }
 .content-blog{
-	background-color: #dcdedf;
+  background-color: #dcdedf;
   height: 254px;
   box-sizing: border-box;
   padding: 25px 50px;
   margin-bottom: 40px
 }
 .content-blog p{
-	margin-bottom: 10px
+  margin-bottom: 10px
 }
 .bottom-blog{
-	width: 200px;
+  width: 200px;
   height: 40px;
   border-radius: 5px;
   padding: 10px 0 0 35px;
@@ -26,9 +26,9 @@ section.blog{
   background-color: #1e2a50;
 }
 .bottom-title{
-	font-weight: bold;
+  font-weight: bold;
 }
 .fecha{
-	font-style: italic;
-	color:#9e9e9e;
+  font-style: italic;
+  color:#9e9e9e;
 }

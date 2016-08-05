@@ -1,20 +1,19 @@
 /* Inserta tu codigo aqui */
 section.block1{
-	background-image: url(../img/dance_1.jpg);
-	background-repeat: no-repeat;
-	background-position: top center;
-	height: 450px;
-	padding: 90px 0 0 0;
-	text-align: left;;
+  background-image: url(../img/dance_1.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  height: 450px;
+  padding: 90px 0 0 0;
 }
 .title-block1{
-	font-size: 70px;
-	font-weight: bold;
-	margin-bottom: 20px;
-	color: #C3C6C5;
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #C3C6C5;
 }
 .bottom-block1{
-	width: 152px;
+  width: 152px;
   height: 50px;
   border-radius: 5px;
   padding: 10px 0 0 5px;
@@ -28,7 +27,7 @@ section.block2, .block4{
   padding: 50px 0;
 }
 .texto-block2{
-	font-size: 25px;
+  font-size: 25px;
   width: 700px;
   margin: 0 auto
 }
@@ -41,21 +40,20 @@ section.block2, .block4{
   padding: 13px 0 0 0;
 }
 section.block2 img{
-	width: 150px;
+  width: 150px;
   margin: 30px 0;
   display: inline-block;
 }
 .block3-fondo1{
   height: 330px;
   background-image: url(../img/instructor_4.jpg);
-  background-position: 55% 15%;
+  background-position: 55% 25%;
   border: 2px solid #192951;
   position: relative;
 }
 .block3-fondo2{
   height: 330px;
   background-image: url(../img/profesor_9.jpg);
-  background-size: 100%;
   border: 2px solid #192951;
   position: relative;
 }
