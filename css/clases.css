@@ -1,0 +1,23 @@
+/* Inserta tu codigo aqui */
+section.clases{
+	background-color: #f4f3f3;
+	height: auto;
+  padding: 40px 0;
+}
+.clases h2{
+	font-size: 30px;
+  margin-bottom: 30px;
+}
+.clases .container .row img{
+	position: relative;
+}
+.clases .container .row .texto-img{
+  width: 270px;
+  padding: 25px;
+  margin: -260px 0 0 26px;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+}
+.title-clases{
+	margin-bottom: 15px;
+}
