@@ -5,7 +5,6 @@ section.block1{
 	background-position: top center;
 	height: 450px;
 	padding: 90px 0 0 0;
-	text-align: left;;
 }
 .title-block1{
 	font-size: 70px;
@@ -48,14 +47,13 @@ section.block2 img{
 .block3-fondo1{
   height: 330px;
   background-image: url(../img/instructor_4.jpg);
-  background-position: 55% 15%;
+  background-position: 55% 25%;
   border: 2px solid #192951;
   position: relative;
 }
 .block3-fondo2{
   height: 330px;
   background-image: url(../img/profesor_9.jpg);
-  background-size: 100%;
   border: 2px solid #192951;
   position: relative;
 }
